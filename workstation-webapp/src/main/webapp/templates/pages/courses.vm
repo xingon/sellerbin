@@ -1,0 +1,327 @@
+
+<!-- Start Hero Area -->
+<section class="hero-section height-470" style="background-image:url(assets/images/about_us.png)" data-aos="fade-up">
+    <div class="hero-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="page-hrader text-white text-center">
+                        <h1 class="display-3">Our Courses</h1>
+                        <div class="page-breadcrumb">
+                            <p><a class="text-white" href="index.html">Home</a> - Our Courses</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Hero Area -->
+<!-- Start Featured Section -->
+<section class="featured-section-3 section-ptb-3" data-aos="fade-up">
+    <div class="featured-area-wrapper show_navigation_2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 mx-auto text-center">
+                    <div class="section-title-2">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis eros lobortis, vestibulum turpis ac, pulvinar odio. Praesent vulputate a elit ac mollis. In sit amet ipsum turpis. Pellentesque venenatis, libero vel euismod lobortis.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 mx-auto text-center mb-5">
+                    <div class="portfolios-list-2">
+                        <ul>
+                            <li class="active button_four filter-button" data-filter="all">All Projects</li>
+                            <li class="button_four filter-button" data-filter="design">Web Design</li>
+                            <li class="button_four filter-button" data-filter="ui_design">UI Design</li>
+                            <li class="button_four filter-button" data-filter="business">Business</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 filter branding mb-5">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/featured_07.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$55</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">Web Design</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>14</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>13</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>14 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 filter design mb-5">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/featured_08.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$99</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">Web Development</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>12</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>65</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>25 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 filter ui_design mb-5">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/featured_09.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$55</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">Graphic Design</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>25</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>98</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>45 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 filter business mb-5">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/portfolio_01.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$86</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">UI Design</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>15</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>18</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>19 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 filter design mb-5">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/portfolio_02.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$85</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">UX Design</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>11</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>17</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>15 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 filter design mb-5">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/portfolio_03.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$95</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">Prind Design</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>14</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>13</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>14 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 filter ui_design mb-3d-5">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/portfolio_07.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$57</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">App Development</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>54</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>53</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>19 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 filter ui_design mb-xs-5">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/portfolio_05.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$68</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">Complete Photography</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>19</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>18</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>16 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 filter business">
+                    <div class="single-featured-5  bg-white text-center">
+                        <div class="feature-image">
+                            <img src="assets/images/featured_06.jpg" alt="Featured" class="img-fluid">
+                            <div class="product-price-5">
+                                <p>$65</p>
+                            </div>
+                        </div>
+                        <div class="featured-text-and-info border-6">
+                            <div class="feature-content p-4">
+                                <h3><a href="#">Mastaring of Java</a></h3>
+                                <p>Mauris at varius orci. Vestibulum um felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae.</p>
+                            </div>
+                            <div class="feature-status-wrapper border-top">
+                                <div class="feature-status-3 px-4 py-3">
+                                    <div class="single-status">
+                                        <i class="fas fa-users"></i>
+                                        <span>14</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <i class="fas fa-comment"></i>
+                                        <span>13</span>
+                                    </div>
+                                    <div class="single-status">
+                                        <span>14 Reviews ( <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Featured Section -->

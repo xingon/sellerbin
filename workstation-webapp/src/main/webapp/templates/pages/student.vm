@@ -1,0 +1,242 @@
+
+<!-- Start Hero Area -->
+<section class="hero-section height-470" style="background-image:url(assets/images/about_us.png)" data-aos="fade-up">
+    <div class="hero-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="page-hrader text-white text-center">
+                        <h1 class="display-3">Students List</h1>
+                        <div class="page-breadcrumb">
+                            <p><a class="text-white" href="index.html">Home</a> - students</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Hero Area -->
+<!-- Start Page Content -->
+<div class="page-wrapper section-ptb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 mb-xs-5" data-aos="fade-up">
+                <div class="sidebar-wrapper">
+                    <div class="single-widget bg_dark_9 p-4">
+                        <div class="search-widget-2">
+                            <h2 class="widget-title">Search Student</h2>
+                            <form action="#" class="search-form my-4">
+                                <select name="std_class" id="std_class" class="form-control" placeholder="Class">
+                                    <option value="1">Class One</option>
+                                    <option value="2">Class Two</option>
+                                    <option value="3">Class Three</option>
+                                    <option value="4">Class Four</option>
+                                    <option value="5">Class Five</option>
+                                    <option value="6">Class Six</option>
+                                </select>
+                                <select name="std_section" id="std_section" class="form-control" placeholder="Section">
+                                    <option value="1">Section One</option>
+                                    <option value="2">Section Two</option>
+                                    <option value="3">Section Three</option>
+                                    <option value="4">Section Four</option>
+                                    <option value="5">Section Five</option>
+                                    <option value="6">Section Six</option>
+                                </select>
+                                <select name="std_session" id="std_session" class="form-control" placeholder="Session">
+                                    <option value="1">Session One</option>
+                                    <option value="2">Session Two</option>
+                                    <option value="3">Session Three</option>
+                                    <option value="4">Session Four</option>
+                                    <option value="5">Session Five</option>
+                                    <option value="6">Session Six</option>
+                                </select>
+                                <input type="text" class="form-control" placeholder="ID Number">
+                                <button type="submit" class="button_block hover_bg">Search Now</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="single-widget my-5">
+                        <div class="button-widget p-4" style="background-image:url(assets/images/pdf_bg.jpg);">
+                            <h3>Download Our 2019 College Brochure from here</h3>
+                            <a href="#" class="button_one">Download</a>
+                        </div>
+                    </div>
+                    <div class="single-widget">
+                        <div class="popup-video-widget">
+                            <div class="widget-video-img">
+                                <img src="assets/images/video_image.jpg" alt="popup video" class="img-fluid">
+                                <a href="#"><i class="fas fa-play-circle"></i></a>
+                                <div class="video-play-btn"><a data-fancybox href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="video-play-link"><i class="fas fa-play-circle"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="page-content">
+                    <div class="row">
+                        <div class="col-md-6 mb-5" data-aos="fade-up" data-aos-delay="300">
+                            <div class="single-member  bg-white text-center">
+                                <div class="member-image">
+                                    <img src="assets/images/student_01.jpg" alt="Featured" class="img-fluid">
+                                </div>
+                                <div class="single-member-info border border-top-0">
+                                    <div class="member-intro">
+                                        <h3><a href="#"> Mohammad MK </a></h3>
+                                        <p><strong>DEP : </strong> SCIENCE</p>
+                                    </div>
+                                    <div class="member-status-wrapper border-top">
+                                        <div class="member-status px-4 py-3">
+                                            <div class="single-status">
+                                                <p><strong>ID:</strong> 2501</p>
+                                            </div>
+                                            <div class="single-status">
+                                                <p><strong>CLASS:</strong> TEN (X)</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-5" data-aos="fade-up" data-aos-delay="400">
+                            <div class="single-member  bg-white text-center">
+                                <div class="member-image">
+                                    <img src="assets/images/student_02.jpg" alt="Featured" class="img-fluid">
+                                </div>
+                                <div class="single-member-info border border-top-0">
+                                    <div class="member-intro">
+                                        <h3><a href="#"> Sadia Zaman </a></h3>
+                                        <p><strong>DEP : </strong> ENGINERING</p>
+                                    </div>
+                                    <div class="member-status-wrapper border-top">
+                                        <div class="member-status px-4 py-3">
+                                            <div class="single-status">
+                                                <p><strong>ID:</strong> 2502</p>
+                                            </div>
+                                            <div class="single-status">
+                                                <p><strong>CLASS:</strong> TEN (X)</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-5" data-aos="fade-up" data-aos-delay="300">
+                            <div class="single-member  bg-white text-center">
+                                <div class="member-image">
+                                    <img src="assets/images/student_03.jpg" alt="Featured" class="img-fluid">
+                                </div>
+                                <div class="single-member-info border border-top-0">
+                                    <div class="member-intro">
+                                        <h3><a href="#"> Arman Khan </a></h3>
+                                        <p><strong>DEP : </strong> SCIENCE</p>
+                                    </div>
+                                    <div class="member-status-wrapper border-top">
+                                        <div class="member-status px-4 py-3">
+                                            <div class="single-status">
+                                                <p><strong>ID:</strong> 2503</p>
+                                            </div>
+                                            <div class="single-status">
+                                                <p><strong>CLASS:</strong> TEN (X)</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-5" data-aos="fade-up" data-aos-delay="300">
+                            <div class="single-member  bg-white text-center">
+                                <div class="member-image">
+                                    <img src="assets/images/student_04.jpg" alt="Featured" class="img-fluid">
+                                </div>
+                                <div class="single-member-info border border-top-0">
+                                    <div class="member-intro">
+                                        <h3><a href="#"> Zamanulla  </a></h3>
+                                        <p><strong>DEP : </strong> SCIENCE</p>
+                                    </div>
+                                    <div class="member-status-wrapper border-top">
+                                        <div class="member-status px-4 py-3">
+                                            <div class="single-status">
+                                                <p><strong>ID:</strong> 2504</p>
+                                            </div>
+                                            <div class="single-status">
+                                                <p><strong>CLASS:</strong> TEN (X)</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-xs-5" data-aos="fade-up" data-aos-delay="300">
+                            <div class="single-member  bg-white text-center">
+                                <div class="member-image">
+                                    <img src="assets/images/student_05.jpg" alt="Featured" class="img-fluid">
+                                </div>
+                                <div class="single-member-info border border-top-0">
+                                    <div class="member-intro">
+                                        <h3><a href="#"> Jasicara Khan </a></h3>
+                                        <p><strong>DEP : </strong> SCIENCE</p>
+                                    </div>
+                                    <div class="member-status-wrapper border-top">
+                                        <div class="member-status px-4 py-3">
+                                            <div class="single-status">
+                                                <p><strong>ID:</strong> 2505</p>
+                                            </div>
+                                            <div class="single-status">
+                                                <p><strong>CLASS:</strong> TEN (X)</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
+                            <div class="single-member  bg-white text-center">
+                                <div class="member-image">
+                                    <img src="assets/images/student_06.jpg" alt="Featured" class="img-fluid">
+                                </div>
+                                <div class="single-member-info border border-top-0">
+                                    <div class="member-intro">
+                                        <h3><a href="#"> Azharulla Kubir</a></h3>
+                                        <p><strong>DEP : </strong> SCIENCE</p>
+                                    </div>
+                                    <div class="member-status-wrapper border-top">
+                                        <div class="member-status px-4 py-3">
+                                            <div class="single-status">
+                                                <p><strong>ID:</strong> 2506</p>
+                                            </div>
+                                            <div class="single-status">
+                                                <p><strong>CLASS:</strong> TEN (X)</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Start Pagination -->
+    <div class="pagination-area" data-aos="fade-up">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 ml-auto">
+                    <div class="pagination-wrapper">
+                        <ul>
+                            <li><a href="#">01</a></li>
+                            <li><a href="#">02</a></li>
+                            <li><a href="#">03</a></li>
+                            <li><a href="#"><i class="fas fa-angle-right"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Pagination -->
+</div>
+
+<!-- End Page Content -->

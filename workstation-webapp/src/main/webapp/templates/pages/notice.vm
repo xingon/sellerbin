@@ -1,0 +1,95 @@
+
+<!-- Start Hero Area -->
+<section class="hero-section height-470" style="background-image:url(assets/images/about_us.png)" data-aos="fade-up">
+    <div class="hero-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="page-hrader text-white text-center">
+                        <h1 class="display-3">Notice</h1>
+                        <div class="page-breadcrumb">
+                            <p><a class="text-white" href="index.html">Home</a> - Notice</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Hero Area -->
+<!--Start Page -->
+<div class="page-wrapper section-ptb-3" data-aos="fade-up">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="events-wrapper">
+                    <div class="single-event-info p-4 mb-5">
+                        <div class="single-event-date p-3">
+                            <span>14</span>
+                            <p>December</p>
+                        </div>
+                        <div class="single-event-content">
+                            <p><i class="fas fa-edit"></i>Conference For Student</p>
+                            <h3><a href="#">Frankfurter kevin tenderloin turkey shoulder tri-tip.</a></h3>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="button_one_alt">Read More</a>
+                        </div>
+                    </div>
+                    <div class="single-event-info p-4 mb-5">
+                        <div class="single-event-date p-3">
+                            <span>14</span>
+                            <p>December</p>
+                        </div>
+                        <div class="single-event-content">
+                            <p><i class="fas fa-edit"></i>Conference For Student</p>
+                            <h3><a href="#">Frankfurter kevin tenderloin turkey shoulder tri-tip.</a></h3>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="button_one_alt">Read More</a>
+                        </div>
+                    </div>
+                    <div class="single-event-info p-4 mb-5">
+                        <div class="single-event-date p-3">
+                            <span>14</span>
+                            <p>December</p>
+                        </div>
+                        <div class="single-event-content">
+                            <p><i class="fas fa-edit"></i>Conference For Student</p>
+                            <h3><a href="#">Frankfurter kevin tenderloin turkey shoulder tri-tip.</a></h3>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="button_one_alt">Read More</a>
+                        </div>
+                    </div>
+                    <div class="single-event-info p-4 mb-5">
+                        <div class="single-event-date p-3">
+                            <span>14</span>
+                            <p>December</p>
+                        </div>
+                        <div class="single-event-content">
+                            <p><i class="fas fa-edit"></i>Conference For Student</p>
+                            <h3><a href="#">Frankfurter kevin tenderloin turkey shoulder tri-tip.</a></h3>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="button_one_alt">Read More</a>
+                        </div>
+                    </div>
+                    <div class="single-event-info p-4">
+                        <div class="single-event-date p-3">
+                            <span>14</span>
+                            <p>December</p>
+                        </div>
+                        <div class="single-event-content">
+                            <p><i class="fas fa-edit"></i>Conference For Student</p>
+                            <h3><a href="#">Frankfurter kevin tenderloin turkey shoulder tri-tip.</a></h3>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="button_one_alt">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
